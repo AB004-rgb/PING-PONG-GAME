@@ -56,10 +56,11 @@ scoreboard.py – A basic Scoreboard class (not used by main.py) that displays s
 
 The main game logic is in main.py; the other files are supplemental examples or earlier versions. In a complete project, you would typically use either the advanced classes in main.py or the simpler ones, but not both simultaneously.
 
-Screenshots of the game are shown below:
+Screenshots and GIF of the game are shown below:
 <img width="1195" height="897" alt="image" src="https://github.com/user-attachments/assets/6d2b16dd-d824-4d59-9c2a-1432593b6654" />
 <img width="1196" height="893" alt="image" src="https://github.com/user-attachments/assets/93733ada-b5f2-44ce-973b-926091250851" />
 <img width="1201" height="897" alt="image" src="https://github.com/user-attachments/assets/0fdab44e-19fe-4f87-a2f1-d644c5a99b46" />
+![Screen Recording 2026-01-20 215436](https://github.com/user-attachments/assets/9796544c-1885-42fd-a02e-9a1f31ae37f3)
 
 
 
