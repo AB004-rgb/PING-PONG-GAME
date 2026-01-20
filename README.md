@@ -56,4 +56,4 @@ scoreboard.py – A basic Scoreboard class (not used by main.py) that displays s
 
 The main game logic is in main.py; the other files are supplemental examples or earlier versions. In a complete project, you would typically use either the advanced classes in main.py or the simpler ones, but not both simultaneously.
 
-Screenshots: Example gameplay screenshots (not shown here) illustrate the neon effects, paddle glow, and particle bursts when the ball hits a paddle or wall.
+
